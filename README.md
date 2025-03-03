@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm MUHAMMED JASEEL T A</h1>
+<h1 align="center">Hi, I'm Muhammed Jaseel T A</h1>
+<p align="center">
+<img src="https://img.shields.io/badge/Age-23-blue" />
+  <img src="https://img.shields.io/badge/Lives-Palakkad-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam-brightgreen" />
+  <img src="https://img.shields.io/badge/Interests-Leadership-brightgreen" />
+</p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaseel29&label=Profile%20views&color=0e75b6&style=flat" alt="jaseel29" /> </p>
