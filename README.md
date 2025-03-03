@@ -5,7 +5,10 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam-brightgreen" />
   <img src="https://img.shields.io/badge/Interests-Leadership-brightgreen" />
 </p>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
+
+<br><br>
+<h3 align="center">A tech enthusiast with a diploma in Computer Hardware Engineering, currently pursuing BTech in CSE, passionate about solving problems through programming, sharing knowledge through teaching, and embracing leadership roles to drive innovation and teamwork.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaseel29&label=Profile%20views&color=0e75b6&style=flat" alt="jaseel29" /> </p>
 
